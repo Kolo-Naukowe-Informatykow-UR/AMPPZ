@@ -1,0 +1,1 @@
+niebyło, była za to pandemia
