@@ -1,0 +1,1 @@
+brak danych testowych, X jest z dnia próbnego

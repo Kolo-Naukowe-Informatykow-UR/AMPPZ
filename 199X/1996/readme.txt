@@ -1,0 +1,1 @@
+G nie mogłem znaleźć niestety nigdzie, orginalny serwer niema snapshota na to zadanie w wayback machine
