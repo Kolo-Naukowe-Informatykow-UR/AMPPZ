@@ -1,0 +1,12 @@
+# obsidian: per-user window state and cache
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+
+# compiled programs and local test files
+*.exe
+*.o
+*.in
+*.out
+testy/
