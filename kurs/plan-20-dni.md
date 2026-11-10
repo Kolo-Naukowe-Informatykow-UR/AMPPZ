@@ -29,20 +29,20 @@ narzędziami, a w zestawie umiesz je szybko znaleźć.
 
 - [ ] Dzień 1 (nd 8.11): [Start: środowisko, szablon, złożoność, typy i pierwsze zadania](dni/01-start.md)
 - [ ] Dzień 2 (pn 9.11): [C++ i STL w praktyce, implementacja i symulacja, przypadki brzegowe](dni/02-stl-symulacja.md)
-- [ ] Dzień 3 (wt 10.11): sortowanie i algorytmy zachłanne, dowód przez zamianę
-- [ ] Dzień 4 (śr 11.11, święto, więcej czasu): sumy prefiksowe, tablice różnicowe, dwa wskaźniki
-- [ ] Dzień 5 (czw 12.11): wyszukiwanie binarne (także po wyniku), testowanie z brute force
-- [ ] Dzień 6 (pt 13.11): matematyka I: modulo, potęgowanie, NWD, sito, proste zliczanie, parzystość
-- [ ] Dzień 7 (sob 14.11): symulacja zawodów 1 drużyną (5 h) i retrospektywa; taktyka, część 1
+- [ ] Dzień 3 (wt 10.11): [Sortowanie i algorytmy zachłanne, dowód przez zamianę](dni/03-sortowanie-zachlanne.md)
+- [ ] Dzień 4 (śr 11.11, święto, więcej czasu): [Sumy prefiksowe, tablice różnicowe i dwa wskaźniki](dni/04-prefiksy-dwa-wskazniki.md)
+- [ ] Dzień 5 (czw 12.11): [Wyszukiwanie binarne (także po wyniku) i testowanie z brute force](dni/05-wyszukiwanie-binarne.md)
+- [ ] Dzień 6 (pt 13.11): [Matematyka I: modulo, potęgowanie, NWD, sito, proste zliczanie, parzystość](dni/06-matematyka.md)
+- [ ] Dzień 7 (sob 14.11): [Symulacja zawodów 1 drużyną (5 h, AMPPZ 2018) i retrospektywa; taktyka](dni/07-symulacja-1.md)
 
 ## Tydzień 2: algorytmy, które wracają co roku
 
 Cel tygodnia: znasz i umiesz napisać z pamięci podstawowe algorytmy na grafach i drzewach, programowanie
 dynamiczne i dwie struktury danych, a w treści rozpoznajesz, kiedy są potrzebne.
 
-- [ ] Dzień 8 (nd 15.11): grafy I: reprezentacja, BFS, DFS, składowe, siatki, sortowanie topologiczne
-- [ ] Dzień 9 (pn 16.11): grafy II: Dijkstra, BFS 0-1, Find-Union, minimalne drzewo rozpinające
-- [ ] Dzień 10 (wt 17.11): programowanie dynamiczne I: stan i przejście, plecak, najdłuższy podciąg
+- [ ] Dzień 8 (nd 15.11): [Grafy I: reprezentacja, BFS, DFS, składowe, siatki, sortowanie topologiczne](dni/08-grafy-1.md)
+- [ ] Dzień 9 (pn 16.11): [Grafy II: Dijkstra, BFS 0-1, Find-Union, minimalne drzewo rozpinające](dni/09-grafy-2.md)
+- [ ] Dzień 10 (wt 17.11): [Programowanie dynamiczne I: stan i przejście, plecak, najdłuższy podciąg](dni/10-dp-1.md)
 - [ ] Dzień 11 (śr 18.11): programowanie dynamiczne II: maski bitowe, przedziały, DP na drzewie
 - [ ] Dzień 12 (czw 19.11): drzewa: poddrzewa, LCA, przeliczanie dla każdego korzenia
 - [ ] Dzień 13 (pt 20.11): struktury danych: drzewo Fenwicka, drzewo przedziałowe, zamiatanie

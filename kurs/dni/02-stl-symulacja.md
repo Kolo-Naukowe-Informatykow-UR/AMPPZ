@@ -322,4 +322,6 @@ Treść przewiduje odpowiedź NIE. Co sprawdzić najpierw?::Czy taki przypadek w
 - [ ] Dzisiejsze błędy wpisane do dziennika ([wzór](../dziennik/szablon-dziennika.md)).
 - [ ] Fiszki z Dnia 1 i Dnia 2 przejrzane.
 
+Materiały obok: [karta wzorca implementacji i symulacji](../wzorce/implementacja-i-symulacja.md).
+
 Następny dzień: sortowanie i algorytmy zachłanne, dowód przez zamianę ([plan](../plan-20-dni.md)).

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kurs/dni/02-stl-symulacja.md",
+                "file": "kurs/dni/03-sortowanie-zachlanne.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02-stl-symulacja"
+              "title": "03-sortowanie-zachlanne"
             }
           }
         ]
@@ -190,6 +190,19 @@
   },
   "active": "e96d326e4b5edb88",
   "lastOpenFiles": [
+    "kurs/dni/06-matematyka.md",
+    "kurs/dni/05-wyszukiwanie-binarne.md",
+    "kurs/dni/03-sortowanie-zachlanne.md",
+    "kurs/dni/02-stl-symulacja.md",
+    "kurs/zadania/2011/h-herbata-z-mlekiem.cpp",
+    "kurs/zadania/1998/f-relations.cpp",
+    "kurs/zadania/1998",
+    "kurs/zadania/2022/m-mniejsze-zlo.cpp",
+    "kurs/zadania/1996/c-shapes.cpp",
+    "kurs/zadania/1996",
+    "kurs/zadania/2015/b-bogacze.cpp",
+    "kurs/zadania/2005/g-skarb.cpp",
+    "kurs/zadania/2005",
     "kurs/dni/01-start.md",
     "kurs/plan-20-dni.md",
     "kurs/README.md",

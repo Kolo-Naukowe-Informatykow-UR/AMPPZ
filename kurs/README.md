@@ -51,12 +51,18 @@ rozłożone w czasie to dwie najlepiej udokumentowane techniki nauki.
 
 - [Plan 20 dni](plan-20-dni.md): kalendarz, tematy dni, postęp.
 - `dni/`: lekcje dzień po dniu, od [Dnia 1](dni/01-start.md).
-- `zadania/`: omówienia zadań z archiwum AMPPZ, z kodem; spis: [zadania](zadania/README.md).
+- `zadania/`: omówienia zadań z archiwum AMPPZ, z kodem; spis: [zadania](zadania/README.md); całe archiwum
+  z techniką i trudnością każdego zadania: [katalog](zadania/katalog.md).
+- `myslenie/`: [moduł myślenia](myslenie/README.md): [sygnały w treści](myslenie/sygnaly-w-tresci.md) (po czym
+  rozpoznać technikę), [protokół rozwiązywania](myslenie/protokol-rozwiazywania.md),
+  [sztuczki obserwacji](myslenie/sztuczki-obserwacji.md), [wspólne mianowniki](myslenie/wspolne-mianowniki.md)
+  i [jak się uczyć](myslenie/jak-sie-uczyc.md).
+- `wzorce/`: [atlas wzorców](wzorce/README.md): sygnały, szablon w C++ i jak naginać każdy wzorzec.
 - `szablony/`: [szablon programu](szablony/szablon.cpp), z którego zaczynasz każde zadanie.
 - `dziennik/`: [wzór dziennika błędów](dziennik/szablon-dziennika.md).
-- W przygotowaniu (pojawią się przed dniem, w którym są potrzebne): atlas wzorców (`wzorce/`), moduł
-  myślenia (`myslenie/`: jak rozwiązywać, jak szukać wspólnych mianowników, jak się uczyć), taktyka zawodów
-  (`taktyka/`: 3 osoby, 1 komputer, 5 godzin), biblioteczka do druku (`biblioteczka/`).
+- `taktyka/`: [taktyka zawodów](taktyka/README.md): 3 osoby, 1 komputer, 5 godzin; role, pierwsze 30 minut,
+  kolejka zadań, ostatnia godzina, debugowanie, dzień próbny, checklisty, retrospektywa.
+- W przygotowaniu (pojawi się przed dniem, w którym jest potrzebna): biblioteczka do druku (`biblioteczka/`).
 
 ## Skąd zadania i rozwiązania
 

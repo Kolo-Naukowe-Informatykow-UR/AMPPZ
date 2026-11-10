@@ -307,4 +307,7 @@ Mały parametr (np. h ≤ 8) wśród dużych sugeruje::Coś wykładniczego wzgl�
 - [ ] Dziennik błędów założony ([wzór](../dziennik/szablon-dziennika.md)), dzisiejsze błędy wpisane.
 - [ ] Fiszki przejrzane raz na koniec dnia.
 
+Materiały obok: [karta wzorca przeglądu wszystkich możliwości i zadań na warunki](../wzorce/przeglad-i-warunki.md),
+[jak się uczyć](../myslenie/jak-sie-uczyc.md) (dlaczego dzień kursu wygląda tak, a nie inaczej).
+
 Następny dzień: C++ i STL w praktyce, implementacja i symulacja ([plan](../plan-20-dni.md)).
